@@ -36,7 +36,7 @@ int main() {
 		else{
 			cout << "Can't write Off usr2" << endl;
 		}
-		usleep(1000000);
+		usleep(1000000); //sleep here
 	}
 	cout << "LED Flash End usr2" << endl;
 
